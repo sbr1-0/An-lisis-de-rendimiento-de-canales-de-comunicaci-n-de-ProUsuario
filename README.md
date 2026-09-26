@@ -1,7 +1,7 @@
 # An-lisis-de-rendimiento-de-canales-de-comunicaci-n-de-ProUsuario
 # 📊 Análisis y Rendimiento de los Canales de Atención de ProUsuario
 
-## 📌 Descripción del Proyecto
+## 📌 Descripción del proyecto
 
 Este proyecto analiza la evolución de los usuarios atendidos por ProUsuario entre 2019 y 2026, con el objetivo de identificar tendencias de crecimiento y evaluar el rendimiento de los distintos canales de atención al cliente.
 
@@ -18,7 +18,7 @@ A través de técnicas de análisis exploratorio de datos (EDA) y visualización
 
 ---
 
-## 🗂️ Fuente de Datos
+## 🗂️ Fuente de datos
 
 Datos obtenidos de la Superintendencia de Bancos de la República Dominicana.
 
@@ -30,7 +30,7 @@ Periodo analizado:
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## 🛠️ Tecnologías utilizadas
 
 - Python
 - Pandas
@@ -41,7 +41,7 @@ Periodo analizado:
 
 ---
 
-## 📈 Proceso de Análisis
+## 📈 Proceso de análisis
 
 ### 1. Carga de datos
 - Importación del dataset CSV.
@@ -67,7 +67,7 @@ Periodo analizado:
 
 ---
 
-## 🔍 Principales Hallazgos
+## 🔍 Principales hallazgos
 
 ### Crecimiento del servicio
 
