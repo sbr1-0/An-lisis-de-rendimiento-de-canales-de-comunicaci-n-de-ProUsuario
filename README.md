@@ -81,27 +81,7 @@ Los canales automatizados concentran la mayor parte del tráfico de usuarios, es
 
 A pesar del crecimiento de la automatización, los canales telefónicos y presenciales continúan siendo relevantes para la atención de casos complejos.
 
----
 
-## 💡 Recomendaciones
 
-- Mantener la inversión en soluciones de autoservicio.
-- Optimizar continuamente los modelos de atención automatizada.
-- Fortalecer los canales humanos para situaciones de mayor complejidad.
-- Implementar métricas de satisfacción para cada canal.
 
----
 
-## 📸 Visualizaciones
-
-### Evolución de usuarios atendidos
-
-[Insertar imagen]
-
-### Ranking de canales
-
-[Insertar imagen]
-
----
-
-## 🚀 Cómo Ejecutar el Proyecto
