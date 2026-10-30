@@ -1,5 +1,5 @@
 # An-lisis-de-rendimiento-de-canales-de-comunicaci-n-de-ProUsuario
-# 📊 Análisis y Rendimiento de los Canales de Atención de ProUsuario
+# 📊 Análisis y rendimiento de los canales de atención de ProUsuario
 
 ## 📌 Descripción del proyecto
 
